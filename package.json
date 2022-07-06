@@ -2,7 +2,6 @@
   "name": "evcore-interview",
   "version": "1.0.0",
   "description": "EvCore Interview",
-  "main": "index.js",
   "scripts": {
     "start": "concurrently \"webpack --watch\" \"webpack serve\""
   },
@@ -10,11 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/GetEvinced/evCore-interview.git"
   },
-  "author": "",
+  "author": "Evinced",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/GetEvinced/evCore-interview/issues"
-  },
   "homepage": "https://github.com/GetEvinced/evCore-interview#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
